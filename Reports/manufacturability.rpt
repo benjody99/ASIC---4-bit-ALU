@@ -1,0 +1,19 @@
+Design Name: alu
+Run Directory: /openlane/designs/4bitalu/runs/RUN_2025.09.18_01.32.01
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/designs/4bitalu/runs/RUN_2025.09.18_01.32.01/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/designs/4bitalu/runs/RUN_2025.09.18_01.32.01/logs/signoff/41-alu.lef.lvs.log
+Number of nets: 96                         |Number of nets: 96                         
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/designs/4bitalu/runs/RUN_2025.09.18_01.32.01/logs/signoff/44-arc.log
+Pin violations: 0
+Net violations: 0
